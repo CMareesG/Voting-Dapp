@@ -1,1 +1,1 @@
-# decentralised-voting-s
+npx hardhat run --network volta scripts/deploy.js
